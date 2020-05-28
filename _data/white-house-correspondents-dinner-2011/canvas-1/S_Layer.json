@@ -1,0 +1,50 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://lizlosh.github.io/obama-speeches/white-house-correspondents-dinner-2011/canvas-1/canvas/S_Layer.json",
+  "type": "AnnotationPage",
+  "label": "S_Layer",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://lizlosh.github.io/obama-speeches/white-house-correspondents-dinner-2011/canvas-1/canvas/S_Layer-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Barack Obama",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://lizlosh.github.io/obama-speeches/white-house-correspondents-dinner-2011/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "0.000000,106.716000"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://lizlosh.github.io/obama-speeches/white-house-correspondents-dinner-2011/canvas-1/canvas/S_Layer-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Lion King",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://lizlosh.github.io/obama-speeches/white-house-correspondents-dinner-2011/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "103.442349,146.821399"
+        }
+      }
+    }
+  ]
+}

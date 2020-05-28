@@ -23,6 +23,14 @@
         "id": "https://lizlosh.github.io/obama-speeches/white-house-correspondents-dinner-2011/canvas-1/canvas",
         "type": "Canvas",
         "duration": 1058.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://lizlosh.github.io/obama-speeches/white-house-correspondents-dinner-2011/canvas-1/canvas/S_Layer.json",
+            "label": "S_Layer"
+          }
+        ],
         "items": [
           {
             "id": "https://lizlosh.github.io/obama-speeches/white-house-correspondents-dinner-2011/canvas-1/paintings",
