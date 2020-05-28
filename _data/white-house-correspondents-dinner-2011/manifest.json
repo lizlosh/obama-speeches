@@ -1,0 +1,48 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://lizlosh.github.io/obama-speeches/white-house-correspondents-dinner-2011/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "White House Correspondents Dinner 2011" ] },
+    "homepage": [
+      {
+        "id": "https://www.americanrhetoric.com/speeches",
+        "type": "Text",
+        "label": { "en": [ "Home page for White House Correspondents Dinner 2011" ] },
+        "format": "text/html"
+      }
+    ],
+    "provider": [
+      {
+        "id": "",
+        "type": "Agent",
+        "label": { "en": [ "American Rhetoric" ] }
+      }
+    ],
+    "items": [
+      {
+        "id": "https://lizlosh.github.io/obama-speeches/white-house-correspondents-dinner-2011/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 1058.0,
+        "items": [
+          {
+            "id": "https://lizlosh.github.io/obama-speeches/white-house-correspondents-dinner-2011/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://lizlosh.github.io/obama-speeches/white-house-correspondents-dinner-2011/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://www.americanrhetoric.com/mp3clipsXE/barackobama/barackobamawhcorrespondentsdinner2011ARXE.mp3",
+                  "type": "Sound",
+                  "format": "audio/mp3",
+                  "duration": 1058.0
+                },
+                "target": "https://lizlosh.github.io/obama-speeches/white-house-correspondents-dinner-2011/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 
