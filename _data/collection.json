@@ -1,0 +1,9 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://example.com/collection.json",
+    "type": "Collection",
+    "label": { "en": [ "Obama Speeches" ] },
+    "summary": { "en": [ "An annotated archive of speeches by President Barack Obama" ] },
+    "items": [
+    ]
+}
